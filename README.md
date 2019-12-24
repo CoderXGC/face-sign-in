@@ -1,6 +1,5 @@
 # face-sign-in
 基于C#WIINFORM的人脸识别的签到系统，可以使用，使用虹软的SDK开发包，实现了基本的人脸签到后台查看等功能，后续功能不断完善中，敬请期待。欢迎STAR~
-
 ##1.简介
 主要界面：启动页：
 ![Image text](https://github.com/xgc1210/face-sign-in/blob/master/img/qidong.png)
@@ -17,6 +16,7 @@
 ![Image text](https://github.com/xgc1210/face-sign-in/blob/master/img/query.png)
 关于：
 ![Image text](https://github.com/xgc1210/face-sign-in/blob/master/img/about.png)
+
 ##2.使用方法：
 首先下载源码，然后第一步申请SDK APPID
 请到官网https://ai.arcsoft.com.cn/index.html
@@ -31,6 +31,7 @@
 ![Image text](https://github.com/xgc1210/face-sign-in/blob/master/img/userd3.png)
 ![Image text](https://github.com/xgc1210/face-sign-in/blob/master/img/userd4.png)
 最后启动项目就可以了。
+
 ##3.结语
 初级码农，很多地方写的不是很好，还请大家见谅。
 您感觉用的还不错可以给一个STAR~谢谢~
