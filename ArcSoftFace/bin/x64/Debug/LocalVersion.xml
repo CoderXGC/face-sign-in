@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <version remark="本地版本号">1.0.0.0</version>
+  <url remark="检查更新地址">https://www.ylesb.com/csimg/ServerVersion.xml</url>
+  <reStartList remark="更新完成后需要启动的应用程序名称">ArcSoftFace</reStartList>
+  <reStartServiceList remark="更新完成后需要启动的服务名称"></reStartServiceList>
+  <killList remark="更新过程中需要关掉的应用程序名称">ArcSoftFace</killList>
+  <killServiceList remark="更新过程中需要关掉的服务名称"></killServiceList>
+</root>
+<!--客户端版本配置xml例子-->
