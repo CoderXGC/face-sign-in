@@ -12,13 +12,13 @@ namespace ArcSoftFace
     class DataMysql
     {
         string conStr;
-        MySqlConnection con = new MySqlConnection("server=116.62.110.115;port=3306;user=facesign;password=99d44172db8d6d58;database=facesign");
+        MySqlConnection con = new MySqlConnection("server=你的ip;port=3306;user=用户名;password=密码;database=数据库名");
 
         //连接数据库
         public void dataCon()
         {
-            //conStr = "server=116.62.110.115;port=3306;user=root;password=99d44172db8d6d58;database=facesign;";
-            conStr = "server=116.62.110.115;port=3306;user=facesign;password=99d44172db8d6d58;database=facesign";
+            //conStr = "server=你的ip;port=3306;user=用户名;password=密码;database=数据库名;";
+            conStr = "server=你的ip;port=3306;user=用户名;password=密码;database=数据库名;";
             MySqlConnection con = new MySqlConnection(conStr);
         }
 
